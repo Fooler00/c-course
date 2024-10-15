@@ -10,3 +10,5 @@
 ## 类对象的初始化与赋值
 <a href="https://sm.ms/image/iTm5CJPNR6Ipwzk" target="_blank"><img src="https://s2.loli.net/2024/10/15/iTm5CJPNR6Ipwzk.jpg" /></a>
 不写构造函数代码则自动生成默认构造函数（不推荐）
+## 友元
+访问private
